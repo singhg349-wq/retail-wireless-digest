@@ -1,5 +1,9 @@
 # Wireless District Digest
 
+![tests](https://github.com/singhg349-wq/retail-wireless-digest/actions/workflows/tests.yml/badge.svg)
+
+**[See a live example report](https://singhg349-wq.github.io/retail-wireless-digest/example_output/digest.html)** (generated from the demo data)
+
 A Python tool that turns a week of retail store exports into a one-page report for a District Manager running about 10 stores. It answers two questions every week:
 
 1. **How much time are wireless sales associates losing to cash and shipping?** Commission-based wireless staff often get pulled onto front-end registers. The tool finds those stints in the POS data and adds up the hours by store and by associate.
@@ -57,7 +61,7 @@ Two sample weeks are included:
 | `data/` | 2026-09-21 | normal | 13 |
 | `samples/busy_week/` | 2026-09-28 | heavy cash pressure (`--busy`, seed 7) | 8 |
 
-Both pass with 0 missed and 0 false alarms. To make a new week: `python generate_fake_data.py --out samples/new_week --week-start 2026-10-05 --seed 3`.
+Both pass with 0 missed and 0 false alarms. GitHub Actions runs both checks on Python 3.10 and 3.12 on every push. To make a new week: `python generate_fake_data.py --out samples/new_week --week-start 2026-10-05 --seed 3`.
 
 ## Project files
 
