@@ -1,0 +1,24 @@
+name: tests
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Check the demo week (13 planted mistakes)
+        run: python check_digest.py
+      - name: Check the busy week (8 planted mistakes)
+        run: python check_digest.py --data samples/busy_week
+      - name: Regenerate the demo data and check again
+        run: |
+          python generate_fake_data.py --out /tmp/regen
+          python check_digest.py --data /tmp/regen
+          diff -r -q --strip-trailing-cr data /tmp/regen
