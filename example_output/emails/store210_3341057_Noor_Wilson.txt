@@ -1,0 +1,15 @@
+To: noor.wilson.210@example.com
+Cc: harjot.martin.210@example.com
+Subject: Weekly stats correction needed - week ending 2026-09-27
+
+Hi Noor,
+
+Thanks for sending in your weekly stats. When I checked them against the till
+and carrier reports, a few things didn't line up:
+
+  - Your activations (7) look like the store total; the carrier export shows 4 for you.
+
+Could you double-check and resubmit the form? If you think the reports are
+wrong, reply to this email and we'll look into it.
+
+Thanks!

@@ -1,0 +1,15 @@
+To: fatima.gill.208@example.com
+Cc: fatima.wong.208@example.com
+Subject: Weekly stats correction needed - week ending 2026-09-27
+
+Hi Fatima,
+
+Thanks for sending in your weekly stats. When I checked them against the till
+and carrier reports, a few things didn't line up:
+
+  - Attach: you reported 27, the till (accessory units credited to you) shows 25.
+
+Could you double-check and resubmit the form? If you think the reports are
+wrong, reply to this email and we'll look into it.
+
+Thanks!

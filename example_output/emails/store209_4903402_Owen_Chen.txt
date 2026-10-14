@@ -1,0 +1,15 @@
+To: owen.chen.209@example.com
+Cc: nathan.chen.209@example.com
+Subject: Weekly stats correction needed - week ending 2026-09-27
+
+Hi Owen,
+
+Thanks for sending in your weekly stats. When I checked them against the till
+and carrier reports, a few things didn't line up:
+
+  - Your Attach (4) and Device protection (17) look swapped; the till shows Attach 17 and Device protection 4.
+
+Could you double-check and resubmit the form? If you think the reports are
+wrong, reply to this email and we'll look into it.
+
+Thanks!

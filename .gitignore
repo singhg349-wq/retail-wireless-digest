@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+output/
+my_data/
+my_output/
+real_data/
+real_output/
+.venv/

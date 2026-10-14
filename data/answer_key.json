@@ -1,0 +1,206 @@
+{
+  "planted_form_errors": [
+    {
+      "employee_id": "4539704",
+      "name": "Chloe Tremblay",
+      "store": 201,
+      "error": "missing"
+    },
+    {
+      "employee_id": "2110460",
+      "name": "Harjot Nguyen",
+      "store": 201,
+      "error": "wrong_id"
+    },
+    {
+      "employee_id": "6440561",
+      "name": "Noor Grewal",
+      "store": 202,
+      "error": "wrong_id"
+    },
+    {
+      "employee_id": "8606962",
+      "name": "Daniel Khan",
+      "store": 204,
+      "error": "store_total"
+    },
+    {
+      "employee_id": "2166941",
+      "name": "Ravi Khan",
+      "store": 205,
+      "error": "store_total"
+    },
+    {
+      "employee_id": "9996414",
+      "name": "Noor Chen",
+      "store": 206,
+      "error": "swapped"
+    },
+    {
+      "employee_id": "8707870",
+      "name": "Noor Martin",
+      "store": 206,
+      "error": "missing"
+    },
+    {
+      "employee_id": "2556017",
+      "name": "Isaac Khan",
+      "store": 207,
+      "error": "missing"
+    },
+    {
+      "employee_id": "3678638",
+      "name": "Fatima Gill",
+      "store": 208,
+      "error": "typo"
+    },
+    {
+      "employee_id": "1109031",
+      "name": "Noor MacDonald",
+      "store": 208,
+      "error": "typo"
+    },
+    {
+      "employee_id": "4903402",
+      "name": "Owen Chen",
+      "store": 209,
+      "error": "swapped"
+    },
+    {
+      "employee_id": "2719583",
+      "name": "Jasleen Wilson",
+      "store": 210,
+      "error": "typo"
+    },
+    {
+      "employee_id": "3341057",
+      "name": "Noor Wilson",
+      "store": 210,
+      "error": "store_total"
+    }
+  ],
+  "planned_cash_minutes": {
+    "4539704": 31,
+    "2110460": 39,
+    "6440561": 14,
+    "4684531": 40,
+    "3871230": 92,
+    "2197935": 65,
+    "8606962": 152,
+    "5663623": 179,
+    "1768805": 61,
+    "2166941": 27,
+    "9996414": 0,
+    "8707870": 57,
+    "2556017": 130,
+    "2714803": 77,
+    "3678638": 69,
+    "1109031": 35,
+    "9478454": 177,
+    "4903402": 201,
+    "2719583": 55,
+    "3341057": 59
+  },
+  "true_actuals": {
+    "4539704": {
+      "activations": 6,
+      "attach": 14,
+      "device_protection": 8
+    },
+    "2110460": {
+      "activations": 9,
+      "attach": 17,
+      "device_protection": 8
+    },
+    "6440561": {
+      "activations": 4,
+      "attach": 23,
+      "device_protection": 1
+    },
+    "4684531": {
+      "activations": 11,
+      "attach": 5,
+      "device_protection": 7
+    },
+    "3871230": {
+      "activations": 8,
+      "attach": 7,
+      "device_protection": 3
+    },
+    "2197935": {
+      "activations": 8,
+      "attach": 20,
+      "device_protection": 8
+    },
+    "8606962": {
+      "activations": 6,
+      "attach": 17,
+      "device_protection": 4
+    },
+    "5663623": {
+      "activations": 10,
+      "attach": 7,
+      "device_protection": 6
+    },
+    "1768805": {
+      "activations": 7,
+      "attach": 9,
+      "device_protection": 6
+    },
+    "2166941": {
+      "activations": 10,
+      "attach": 6,
+      "device_protection": 6
+    },
+    "9996414": {
+      "activations": 9,
+      "attach": 16,
+      "device_protection": 1
+    },
+    "8707870": {
+      "activations": 6,
+      "attach": 17,
+      "device_protection": 1
+    },
+    "2556017": {
+      "activations": 12,
+      "attach": 11,
+      "device_protection": 6
+    },
+    "2714803": {
+      "activations": 9,
+      "attach": 13,
+      "device_protection": 1
+    },
+    "3678638": {
+      "activations": 9,
+      "attach": 25,
+      "device_protection": 1
+    },
+    "1109031": {
+      "activations": 9,
+      "attach": 6,
+      "device_protection": 6
+    },
+    "9478454": {
+      "activations": 12,
+      "attach": 17,
+      "device_protection": 1
+    },
+    "4903402": {
+      "activations": 5,
+      "attach": 17,
+      "device_protection": 4
+    },
+    "2719583": {
+      "activations": 3,
+      "attach": 19,
+      "device_protection": 3
+    },
+    "3341057": {
+      "activations": 4,
+      "attach": 13,
+      "device_protection": 7
+    }
+  }
+}

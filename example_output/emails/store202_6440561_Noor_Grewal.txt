@@ -1,0 +1,15 @@
+To: noor.grewal.202@example.com
+Cc: chloe.sharma.202@example.com
+Subject: Weekly stats correction needed - week ending 2026-09-27
+
+Hi Noor,
+
+Thanks for sending in your weekly stats. When I checked them against the till
+and carrier reports, a few things didn't line up:
+
+  - The employee ID on your form (6440511) doesn't match your ID on file (6440561).
+
+Could you double-check and resubmit the form? If you think the reports are
+wrong, reply to this email and we'll look into it.
+
+Thanks!

@@ -1,0 +1,176 @@
+{
+  "planted_form_errors": [
+    {
+      "employee_id": "2302255",
+      "name": "Harjot MacDonald",
+      "store": 202,
+      "error": "typo"
+    },
+    {
+      "employee_id": "8014936",
+      "name": "Tyler Smith",
+      "store": 203,
+      "error": "typo"
+    },
+    {
+      "employee_id": "9588807",
+      "name": "Zara Young",
+      "store": 203,
+      "error": "missing"
+    },
+    {
+      "employee_id": "8811503",
+      "name": "Taylor Wilson",
+      "store": 205,
+      "error": "missing"
+    },
+    {
+      "employee_id": "2053424",
+      "name": "Jasleen Grewal",
+      "store": 206,
+      "error": "swapped"
+    },
+    {
+      "employee_id": "3420198",
+      "name": "Taylor Gill",
+      "store": 207,
+      "error": "store_total"
+    },
+    {
+      "employee_id": "2037872",
+      "name": "Liam Wong",
+      "store": 208,
+      "error": "missing"
+    },
+    {
+      "employee_id": "2579240",
+      "name": "Gurleen Sharma",
+      "store": 210,
+      "error": "swapped"
+    }
+  ],
+  "planned_cash_minutes": {
+    "8954050": 46,
+    "5528829": 141,
+    "6263809": 47,
+    "2302255": 50,
+    "8014936": 267,
+    "9588807": 291,
+    "9811335": 638,
+    "6037344": 564,
+    "8603172": 99,
+    "8811503": 81,
+    "2053424": 93,
+    "2634613": 71,
+    "3420198": 464,
+    "8031986": 490,
+    "2037872": 135,
+    "4745328": 73,
+    "8015764": 692,
+    "8275367": 876,
+    "2579240": 210,
+    "9990608": 98
+  },
+  "true_actuals": {
+    "8954050": {
+      "activations": 9,
+      "attach": 12,
+      "device_protection": 7
+    },
+    "5528829": {
+      "activations": 11,
+      "attach": 24,
+      "device_protection": 1
+    },
+    "6263809": {
+      "activations": 10,
+      "attach": 10,
+      "device_protection": 7
+    },
+    "2302255": {
+      "activations": 4,
+      "attach": 19,
+      "device_protection": 8
+    },
+    "8014936": {
+      "activations": 3,
+      "attach": 12,
+      "device_protection": 1
+    },
+    "9588807": {
+      "activations": 10,
+      "attach": 19,
+      "device_protection": 1
+    },
+    "9811335": {
+      "activations": 3,
+      "attach": 13,
+      "device_protection": 3
+    },
+    "6037344": {
+      "activations": 10,
+      "attach": 10,
+      "device_protection": 2
+    },
+    "8603172": {
+      "activations": 10,
+      "attach": 15,
+      "device_protection": 5
+    },
+    "8811503": {
+      "activations": 9,
+      "attach": 18,
+      "device_protection": 5
+    },
+    "2053424": {
+      "activations": 11,
+      "attach": 11,
+      "device_protection": 6
+    },
+    "2634613": {
+      "activations": 4,
+      "attach": 8,
+      "device_protection": 3
+    },
+    "3420198": {
+      "activations": 11,
+      "attach": 15,
+      "device_protection": 4
+    },
+    "8031986": {
+      "activations": 6,
+      "attach": 21,
+      "device_protection": 5
+    },
+    "2037872": {
+      "activations": 7,
+      "attach": 24,
+      "device_protection": 8
+    },
+    "4745328": {
+      "activations": 8,
+      "attach": 8,
+      "device_protection": 6
+    },
+    "8015764": {
+      "activations": 8,
+      "attach": 25,
+      "device_protection": 2
+    },
+    "8275367": {
+      "activations": 7,
+      "attach": 23,
+      "device_protection": 3
+    },
+    "2579240": {
+      "activations": 3,
+      "attach": 10,
+      "device_protection": 5
+    },
+    "9990608": {
+      "activations": 7,
+      "attach": 21,
+      "device_protection": 8
+    }
+  }
+}
